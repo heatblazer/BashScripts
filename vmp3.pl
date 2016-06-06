@@ -1,3 +1,6 @@
+# tutorial from: 
+# http://xmodulo.com/how-to-write-simple-tcp-server-and-client-in-perl.html
+
 use IO::Socket::INET;
 
 #autoflush on socket
